@@ -1,0 +1,5 @@
+{
+  "model": "gpt-image-2",
+  "prompt": "Create a clean, modern logo for a project called 'Paper Leaderboard'. Goal: make it feel like a research infrastructure tool, not a playful startup mascot. Communicate papers, ranking, structure, and navigation. Suitable for GitHub README, website header, and favicon adaptation. Visual concept: a stacked paper or document motif combined with an ascending leaderboard or bar-rank signal. Geometric, minimal, flat, no 3D bevels. One compact emblem plus optional wordmark. Balanced between academic seriousness and product clarity. Style: clean vector-like logo, white or transparent-background look, restrained but memorable, high legibility at small size, no mascots, no handwritten style, no cluttered gradients. Color direction: deep teal, dark slate, muted gold accent; should still work in monochrome. Composition: square canvas, centered icon, subtle paper layers, leaderboard cue integrated into the shape. Output intent: logo-style raster image, no mockup scene, no desk, no texture.",
+  "size": "1024x1024"
+}

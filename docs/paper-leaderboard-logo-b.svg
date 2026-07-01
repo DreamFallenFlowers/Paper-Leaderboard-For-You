@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Paper Leaderboard logo B</title>
+  <desc id="desc">Monoline document outline with an upward rank arrow.</desc>
+  <rect width="512" height="512" rx="96" fill="#f8fafc"/>
+  <path d="M154 108h142l62 62v182c0 28-22 50-50 50H154c-28 0-50-22-50-50V158c0-28 22-50 50-50z" fill="none" stroke="#0f3d4c" stroke-width="16" stroke-linejoin="round"/>
+  <path d="M296 108v70h70" fill="none" stroke="#0f3d4c" stroke-width="16" stroke-linejoin="round"/>
+  <path d="M176 324l56-56 42 42 82-82" fill="none" stroke="#0f766e" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M336 228h48v48" fill="none" stroke="#c59f3a" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

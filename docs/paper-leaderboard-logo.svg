@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Paper Leaderboard logo</title>
+  <desc id="desc">A stacked paper icon combined with ascending leaderboard bars.</desc>
+  <defs>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f766e"/>
+      <stop offset="100%" stop-color="#0f3d4c"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="96" fill="#f8fafc"/>
+  <rect x="98" y="116" width="210" height="260" rx="22" fill="#dbeafe" stroke="#94a3b8" stroke-width="6"/>
+  <rect x="126" y="92" width="210" height="260" rx="22" fill="#e2e8f0" stroke="#94a3b8" stroke-width="6"/>
+  <rect x="152" y="68" width="210" height="260" rx="22" fill="#ffffff" stroke="#475569" stroke-width="8"/>
+  <rect x="186" y="124" width="112" height="12" rx="6" fill="#cbd5e1"/>
+  <rect x="186" y="152" width="92" height="12" rx="6" fill="#cbd5e1"/>
+  <rect x="186" y="180" width="126" height="12" rx="6" fill="#cbd5e1"/>
+  <rect x="316" y="232" width="32" height="84" rx="10" fill="#c59f3a"/>
+  <rect x="360" y="188" width="32" height="128" rx="10" fill="#17817b"/>
+  <rect x="404" y="144" width="32" height="172" rx="10" fill="url(#accent)"/>
+  <path d="M316 108h118" stroke="#0f172a" stroke-width="12" stroke-linecap="round"/>
+  <path d="M316 108l-18 18" stroke="#0f172a" stroke-width="12" stroke-linecap="round"/>
+  <path d="M316 108l-18-18" stroke="#0f172a" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="412" cy="108" r="14" fill="#c59f3a"/>
+</svg>

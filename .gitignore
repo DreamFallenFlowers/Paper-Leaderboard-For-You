@@ -1,0 +1,10 @@
+data/raw/arxiv/*.json
+data/raw/scholar/*.json
+data/processed/*.jsonl
+data/processed/*.csv
+data/processed/*.json
+site/data/*.json
+logs/
+state/
+__pycache__/
+*.pyc

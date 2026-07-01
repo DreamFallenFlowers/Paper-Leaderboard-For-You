@@ -1,0 +1,42 @@
+Create a polished horizontal workflow diagram for a project called "Paper Leaderboard Pipeline".
+
+Goal:
+- explain the full workflow clearly for a GitHub README or project homepage
+- make the process feel rigorous, reusable, and engineering-oriented
+
+Diagram content:
+1. Search keyword design
+2. arXiv retrieval
+3. Google Scholar citation lookup via Serper API
+4. Ranking and scoring
+5. LLM keyword extraction from title + abstract
+6. Static leaderboard frontend
+
+Requirements:
+- horizontal left-to-right flow
+- six clearly separated stages
+- each stage with a concise title and a simple icon-like visual
+- arrows connecting all stages
+- visual emphasis on the pipeline structure
+- readable at medium width in a README
+
+Style:
+- modern technical infographic
+- clean white or very light background
+- dark text
+- restrained palette with teal / slate / muted gold accents
+- no clutter
+- no cartoon style
+- no pseudo-code blocks inside the image
+
+Visual hints per stage:
+- keyword design: magnifier + keyword chips
+- arXiv retrieval: paper/document stack
+- Serper citation lookup: scholar search / citation badge
+- ranking: sorted bars or leaderboard lines
+- LLM keyword extraction: abstract text + tag chips
+- frontend: browser window / table UI
+
+Output intent:
+- a static explanatory diagram for documentation
+- crisp, professional, product-quality

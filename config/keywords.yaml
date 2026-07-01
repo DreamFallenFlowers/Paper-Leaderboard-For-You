@@ -1,0 +1,25 @@
+primary:
+  strong_phrases:
+    - your domain phrase
+    - another key phrase
+  support_terms:
+    - example
+    - method
+    - system
+  exclude_terms:
+    - unrelated phrase
+
+subtopics:
+  subtopic-a:
+    strong_phrases:
+      - subtopic a
+    support_terms:
+      - example-a
+    exclude_terms: []
+
+  subtopic-b:
+    strong_phrases:
+      - subtopic b
+    support_terms:
+      - example-b
+    exclude_terms: []
